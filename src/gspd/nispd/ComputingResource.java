@@ -24,8 +24,4 @@ public class ComputingResource implements Comparable<ComputingResource> {
         }
         return mainMemory.compareTo(cr.mainMemory);
     }
-
-    void goo() {
-
-    }
 }
